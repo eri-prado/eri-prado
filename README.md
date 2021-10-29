@@ -20,9 +20,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
   <h3>Conecte-se comigo<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p>
- <a href="https://www.linkedin.com/in/erinaldo-prado/" target="blank">
+ <a href="https://www.linkedin.com/in/erinaldo-prado/" target="_blank">
   <img alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/eriprado_/" target="blank">
+ <a href="https://www.instagram.com/eriprado_/" target="_blank">
   <img alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
