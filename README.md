@@ -8,6 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
 ## Veja alguns dos meus projetos...
 <ul>
  <li>Site da empresa fictícia <b>Bikcraft</b> -> <a href="https://eri-prado.github.io/bikcraft/" target="_blank">Clique aqui para visualizar</a></li>
+ <li>Site <b>Wildbeast</b> -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
 </ul>
 
 
