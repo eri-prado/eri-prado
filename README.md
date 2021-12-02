@@ -8,7 +8,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
 ## Veja alguns dos meus projetos...
 <ul>
  <li>Site da empresa fictícia <b>Bikcraft</b> -> <a href="https://eri-prado.github.io/bikcraft/" target="_blank">Clique aqui para visualizar</a></li>
- <li>Site <b>Wildbeast</b> -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
+ <li>Site one-page <b>Wildbeast</b> -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
+ <li>Problema de lógica <b>Teste de Einstein</b> -> <a href="https://eri-prado.github.io/einstein-test/" target="_blank">Clique aqui para fazer o teste</a></li>
+ <li>Adiciona seus filmes favoritos ao catálogo <b>Aluraflix</b> -> <a href="https://eri-prado.github.io/aluraflix/" target="_blank">Clique aqui para fazer usar</a></li>
 </ul>
 
 
