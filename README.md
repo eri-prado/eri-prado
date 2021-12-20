@@ -10,9 +10,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
  <li><b>Bikcraft</b> site responsivo de uma empresa fictícia -> <a href="https://eri-prado.github.io/bikcraft/" target="_blank">Clique aqui para visualizar</a></li>
  <li><b>Wildbeast</b> site one-page -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
  <li><b>Teste de Einstein</b> problema de lógica  -> <a href="https://eri-prado.github.io/einstein-test/" target="_blank">Clique aqui para fazer o teste</a></li>
- <li><b>Aluraflix</b> adiciona seus filmes favoritos ao catálogo -> <a href="https://eri-prado.github.io/aluraflix/" target="_blank">Clique aqui para fazer usar</a></li>
- <li><b>Calculadora de Média Escolar</b> -> <a href="https://eri-prado.github.io/averaging-calculator/" target="_blank">Clique aqui para fazer usar</a></li>
- <li><b>Mentalista</b> adivinha o número secreto -> <a href="https://eri-prado.github.io/mentalista/" target="_blank">Clique aqui para fazer usar</a></li>
+ <li><b>Aluraflix</b> adiciona seus filmes favoritos ao catálogo -> <a href="https://eri-prado.github.io/aluraflix/" target="_blank">Clique aqui para usar</a></li>
+ <li><b>Calculadora de Média Escolar</b> -> <a href="https://eri-prado.github.io/averaging-calculator/" target="_blank">Clique aqui para usar</a></li>
+ <li><b>Mentalista</b> adivinha o número secreto -> <a href="https://eri-prado.github.io/mentalista/" target="_blank">Clique aqui para usar</a></li>
+ <li><b>Página de manutenção</b> com contagem regressiva -> <a href="https://eri-prado.github.io/maintenance-page/" target="_blank">Clique aqui para ver</a></li>
 </ul>
 
 
