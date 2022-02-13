@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello, World!
-Olá, sou Erinaldo Prado, bem vindo ao meu perfil! <br>
+Olá, sou Erinaldo Prado, bem-vindo ao meu perfil! <br>
 Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estudos em desenvolvimento web Front-end.
  <br/>
 ## Tecnologias & Ferramentas que tenho conhecimento :computer: 
