@@ -17,7 +17,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
  <li>Página com contagem regressiva <b>Página de manutenção</b> -> <a href="https://eri-prado.github.io/maintenance-page/" target="_blank">Clique aqui para ver</a></li>
 </ul>
 
-
 <br/>
 <br/>
 
@@ -25,7 +24,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
 <!-- <a href="https://github.com/Pranjaljain0/Pranjaljain0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eri-prado&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
-
 
 <div>
   <h3>Conecte-se comigo<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
