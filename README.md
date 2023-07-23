@@ -8,8 +8,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
 ## Veja alguns dos meus projetos...
 <ul>
  <li>React clone <b>Notion</b> -> <a href="https://notion-react-taupe.vercel.app/" target="_blank">Clique aqui para visualizar</a></li>
-<ul>
- <li>One page <b>Agência Weev</b> -> <a href="https://eri-prado.github.io/agencia-weev/" target="_blank">Clique aqui para visualizar</a></li>
+ <li>One page <b>Agência Weev</b> -> <a href="https://eri-prado.github.io/agencia-weev/" target="_blank">Clique aqui para visualizar</a> 
+ </li>
  <li>Website <b>Bikcraft</b> -> <a href="https://eri-prado.github.io/bikcraft/" target="_blank">Clique aqui para visualizar</a></li>
  <li>One page <b>Wildbeast</b> -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
  <li>Projeto <b>Slide</b> -> <a href="https://eri-prado.github.io/slide-project/" target="_blank">Clique aqui para visualizar</a></li>
