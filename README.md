@@ -13,7 +13,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou focando meus estud
  <li>Website <b>Bikcraft</b> -> <a href="https://eri-prado.github.io/bikcraft/" target="_blank">Clique aqui para visualizar</a></li>
  <li>One page <b>Wildbeast</b> -> <a href="https://eri-prado.github.io/wildbeast/" target="_blank">Clique aqui para visualizar</a></li>
  <li>Projeto <b>Slide</b> -> <a href="https://eri-prado.github.io/slide-project/" target="_blank">Clique aqui para visualizar</a></li>
- <li>Projeto <b>CRUD com modal</b> -> <a href="https://eri-prado.github.io/crud/" target="_blank">Clique aqui para visualizar</a></li>
+ <li>Projeto <b>CRUD Básico</b> -> <a href="https://eri-prado.github.io/crud/" target="_blank">Clique aqui para visualizar</a></li>
  
  <li>Jogo de lógica <b>Teste de Einstein</b> -> <a href="https://eri-prado.github.io/einstein-test/" target="_blank">Clique aqui para fazer o teste</a></li>
  <li>Sistema que adiciona filmes ao catálogo <b>Aluraflix</b> -> <a href="https://eri-prado.github.io/aluraflix/" target="_blank">Clique aqui para usar</a></li>
