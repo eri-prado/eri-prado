@@ -7,6 +7,7 @@ Olá, sou Desenvolvedor front-end formado em Análise e Desenvolvimento de Siste
 ## Veja alguns dos meus projetos...
 <ul>
  <li>React clone <b>Notion</b> -> <a href="https://notion-react-taupe.vercel.app/" target="_blank">Clique aqui para visualizar</a></li>
+  <li>Rede Social <b>Dogs</b> -> <a href="https://github.com/eri-prado/rede-social-dogs" target="_blank">Clique aqui para visualizar</a> 
  <li>One page <b>Agência Weev</b> -> <a href="https://eri-prado.github.io/agencia-weev/" target="_blank">Clique aqui para visualizar</a> 
  </li>
  <li>Nova One page <b>Agência Weev</b> -> <a href="https://agenciaweev.com/" target="_blank">Clique aqui para visualizar</a> 
