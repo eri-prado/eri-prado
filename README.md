@@ -20,7 +20,7 @@ Olá, sou Desenvolvedor front-end formado em Análise e Desenvolvimento de Siste
  <li>Jogo de lógica <b>Teste de Einstein</b> -> <a href="https://eri-prado.github.io/einstein-test/" target="_blank">Clique aqui para fazer o teste</a></li>
  <li>Sistema que adiciona filmes ao catálogo <b>Aluraflix</b> -> <a href="https://eri-prado.github.io/aluraflix/" target="_blank">Clique aqui para usar</a></li>
  <li>Projeto <b>Semáforo</b> -> <a href="https://eri-prado.github.io/semaforo/" target="_blank">Clique aqui para visualizar</a></li>
- <li><b>Calculadora de Média Escolar</b> -> <a href="https://eri-prado.github.io/averaging-calculator/" target="_blank">Clique aqui para usar</a></li>
+ <li><b>Back-end de uma aplicação de To-Do List</b> -> <a href="https://github.com/eri-prado/todolist-java" target="_blank">Clique aqui para ver</a></li>
  <li>Jogo que adivinha o número secreto <b>Mentalista</b> -> <a href="https://eri-prado.github.io/mentalista/" target="_blank">Clique aqui para usar</a></li>
  <li>Página com contagem regressiva <b>Página de manutenção</b> -> <a href="https://eri-prado.github.io/maintenance-page/" target="_blank">Clique aqui para ver</a></li>
 </ul>
